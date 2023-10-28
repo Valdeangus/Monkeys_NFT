@@ -1,5 +1,46 @@
-@import url(../vendor/normalize.css);
 
-@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@100;300;400;600;700&display=swap');
+
 
 @import url(../blocks/pages.css);
+
+
+
+
+
+
+
+
+
+
+/* Imports do main */
+@import url(../blocks/main/main.css);
+
+/* Imports do cards */
+@import url(../blocks/main/cards/cards.css);
+@import url(../blocks/main/cards/__image/image.css);
+@import url(../blocks/main/cards/__card/card.css);
+
+/* Imports do cole */
+@import url(../blocks/main/cole/cole.css);
+@import url(../blocks/main/cole/__header/__header.css);
+@import url(../blocks/main/cole/__header/title.css);
+@import url(../blocks/main/cole/__header/btn.css);
+@import url(../blocks/main/cole/tabela/tabel.a.css);
+
+@import url(../blocks/main/question/question.css);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
