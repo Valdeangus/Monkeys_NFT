@@ -1,6 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@100;300;400;600;700&display=swap');
 .pages {
   background-color: #030303;
   color: #fff;
-
-
+  font-family: 'Inter Tight', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }

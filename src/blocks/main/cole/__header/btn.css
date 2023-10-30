@@ -1,0 +1,14 @@
+.btn {
+  background: #F7FC0E;
+  width: 154px;
+  height: 41px;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  margin: 10px;
+  cursor: pointer;
+}
+.btn:hover {
+  opacity: 0.8;
+}

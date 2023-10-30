@@ -1,0 +1,32 @@
+.question {
+  margin:  0;
+}
+.question__title{
+  margin: 0 0 20px 0;
+  width: 420px;
+  font-size: 40px;
+  line-height: 49px;
+}
+.question__paragraps {
+
+}
+.question__paragraph {
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+  padding:43px 0 44px;
+  border-bottom: 4px solid black;
+  border-image-slice: 1;
+  border-radius: 0 0 4px 4px;
+}
+.b-ultimo {
+  padding-bottom: 80px;
+}
+.question__icon {
+  width: 31px;
+  height: 31px;
+  cursor: pointer;
+}
+.question__icon:hover {
+  opacity: 0.8;
+}
